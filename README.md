@@ -14,4 +14,4 @@ This repository contains a Python implementation of the classic Connect Four gam
 1. Clone the repository to your local machine.
 2. Install Python if you haven't already.
 3. Install the required dependencies using `pip install -r requirements.txt`.
-4. Run the game using `python connect_four.py`.
+4. Run the game using `python connect4_vs.py`.
